@@ -5,11 +5,6 @@
 * Rust
 * Embedded MCU Firmware / 組込MCUファームウェア
 
-### Other Channels / その他のチャンネル
-* Discord: `mapapt`
-* [connpass](https://connpass.com/user/mapapt)
-* [atcoder](https://atcoder.jp/users/mapapt)
-
 ### Disclaimer / 免責事項
 All activities here are personal and independent of any organization. /
 ここでの活動はすべて個人のものであり、所属組織とは一切関係ありません。
