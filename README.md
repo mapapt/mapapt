@@ -1,16 +1,15 @@
-## Hi there 👋
+## mapapt
 
-<!--
-**mapapt/mapapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Interests / 技術的関心
+* Convex Optimization for Signal Processing / 凸最適化による信号処理
+* Rust
+* Embedded MCU Firmware / 組込MCUファームウェア
 
-Here are some ideas to get you started:
+### Other Channels / その他のチャンネル
+* Discord: `mapapt`
+* [connpass](https://connpass.com/user/mapapt)
+* [atcoder](https://atcoder.jp/users/mapapt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Disclaimer / 免責事項
+All activities here are personal and independent of any organization. /
+ここでの活動はすべて個人のものであり、所属組織とは一切関係ありません。
